@@ -1,4 +1,4 @@
-# Auditor de Busca com IA e GEO | TAVARDT Brasil
+# Auditor de Busca com IA e GEO
 
 [![Auditor GEO](https://img.shields.io/badge/TAVARDT-Busca%20IA%20GEO-5b3cf5.svg)](https://tools.tavardt.com/br/auditor-busca-ia-geo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para auditorias continuas e analise comparativa de presenca em motores generativ
 ## Consultoria em Visibilidade e Motores de IA
 
 Para otimizacao de arquitetura de dados e indexacao em agentes autonomos no Brasil, consulte os especialistas da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
