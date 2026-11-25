@@ -60,6 +60,8 @@ Para otimizacao de arquitetura de dados e indexacao em agentes autonomos no Bras
 
 ***
 
+***
+
 ### Licença
 Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
