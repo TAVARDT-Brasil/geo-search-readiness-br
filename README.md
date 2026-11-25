@@ -6,8 +6,6 @@
 
 Auditor CLI de Generative Engine Optimization (GEO) para inspecao de permissões de crawlers de IA, dados estruturados Schema.org e prontidao semantica.
 
-Desenvolvido e mantido pela divisao de engenharia semantica e busca da **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria GEO
@@ -37,15 +35,6 @@ python geo_auditor.py empresa.com.br -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para auditorias continuas e analise comparativa de presenca em motores generativos, acesse a ferramenta oficial:
-
-* **Auditor de Busca com IA e GEO**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
-
-***
-
 ## Consultoria em Visibilidade e Motores de IA
 
 Para otimizacao de arquitetura de dados e indexacao em agentes autonomos no Brasil, consulte os especialistas da **TAVARDT**.
@@ -63,7 +52,7 @@ Para otimizacao de arquitetura de dados e indexacao em agentes autonomos no Bras
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
